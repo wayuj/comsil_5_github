@@ -39,7 +39,7 @@ int main(){
 					if(p->Delete(tmpItem)==true)
 						cout<<tmpItem<<"가 삭제되었습니다."<<endl;
 						
-					else cout<<"비어있습니다. 삭제 실패"<<endl;
+					else cout<<"비어있습니다. 삭제 실패!"<<endl;
 					break;
 					
 				case 3:
