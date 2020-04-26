@@ -14,7 +14,7 @@ int main(){
 		LinkedList<int> *p;
 		bool flag = false;
 
-		cout<<"자료구조 선택(1: Stack, Other: Linked List): ";
+		cout<<"자료구조를 선택하세요.(1: Stack, Other: Linked List): ";
 		cin>>mode;
 						    
 		if(mode == 1)
